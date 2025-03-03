@@ -1,0 +1,15 @@
+{
+    "icon": "mekanismcolonies.png",
+    "name": "MekanismColonies",
+    "authors": [
+      "NoAd_pl"
+    ],
+    "desc": "Full industry loaded with Mekanism mod stuff. All hut's are 10x10x10 for better stacking, prepare to use tons of resources. Hardmode!",
+    "mods": [
+    "structurize",
+    "minecolonies",
+    "mekanism"
+    ],
+    "version": "1",
+    "pack-format": "1"
+  }
