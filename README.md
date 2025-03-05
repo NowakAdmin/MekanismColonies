@@ -1,4 +1,4 @@
-<h3>A package that have goal to be a nice Minecraft mods: <a href="https://github.com/mekanism/Mekanism">Mekanism</a> & <a href="https://github.com/ldtteam/minecolonies">MineColonies</a> smooth, but challenging to play integration.</h3>
+<h3>This is a package that have goal to be a nice integration of two Minecraft mods: <a href="https://github.com/mekanism/Mekanism">Mekanism</a> & <a href="https://github.com/ldtteam/minecolonies">MineColonies</a>.</h3>
 
 <p>This is early release, some blueprints are just basic with no blocks, some have them already. For now I want to test how things fit together, what is possible and what is not.
 </p>
@@ -11,9 +11,15 @@
 <li>Multiblocks builded by builder colonist (never forget layout!)</li>
 </ul>
 
-<h3>Some issues i see</h3>
+<h3>Installation</h3>
 <ul>
-  <li>Problem with upgrading tiers of Fission reactor - probably becouse of (input/output) setup or just of block placement. Im investigating.</li>
+  <li>1. Download.ism blocks cant be made by Minecolonies NPC like Fission Reactor Port.</li>
+  <li>2. move MekanismColonies to blueprints folder f. ex. "%appdata%\.minecraft\blueprints".</li>
+  <li>3. Start game and select package in builder tool/townhall.</li>
+</ul>
+
+<h3>Misc info</h3>
+<ul>
   <li>Some Mekanism blocks cant be made by Minecolonies NPC like Fission Reactor Port.</li>
   <li>Will this be only a MineColonies Blueprints pack or a whole mod?</li>
   <li>..Mekanism is missing a wood stripper..</li>
