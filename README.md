@@ -13,7 +13,7 @@
 
 <h3>Installation</h3>
 <ul>
-  <li>1. Download.ism blocks cant be made by Minecolonies NPC like Fission Reactor Port.</li>
+  <li>1. Download.</li>
   <li>2. move MekanismColonies to blueprints folder f. ex. "%appdata%\.minecraft\blueprints".</li>
   <li>3. Start game and select package in builder tool/townhall.</li>
 </ul>
